@@ -43,11 +43,3 @@ button.on("click",function(){
 })
 
 
-
-//date.addEventListener("input",date_input);
-
-// document.getElementById("datetime").addEventListener("input", function(){
-//     var inputDate = date.value;
-//     console.log(inputDate);
-//     return inputDate;
-// })
